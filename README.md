@@ -3,7 +3,7 @@
 
 ## TODO（整理的需求和bug）和已处理问题 请看 [issue](https://github.com/OriX6/liveRecordAuto/issues/15)
 #### 有问题及建议可以提issue  我会在这里不断更新 欢迎Star
-#### 本项目保持一月1更 望周知 作者本人有点小忙~
+#### 作者本人有点小忙~ 本项目不定时更新~ 
 
 ## 已支持链接格式
 ### 抖音
