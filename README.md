@@ -1,9 +1,9 @@
-# liveRecordAuto 【永久免费】 当前版本【1.0.9】
+# liveRecordAuto 【永久免费】 当前版本【1.1.0】 
 基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式 
 
 ## TODO（整理的需求和bug）和已处理问题 请看 [issue](https://github.com/OriX6/liveRecordAuto/issues/15)
 #### 有问题及建议可以提issue  我会在这里不断更新 欢迎Star
-#### 本项目保持一月1-2更 望周知 作者本人有点小忙~
+#### 本项目保持一月1更 望周知 作者本人有点小忙~
 
 ## 已支持链接格式
 ### 抖音
@@ -24,6 +24,9 @@
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/47015e08-eb11-408f-9a30-b23a3cb7382d)
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/4769a08b-c246-4694-96c3-be468faf9c77)
 
+## 用户交流群
+
+![微信图片_20240226170039](https://github.com/OriX6/liveRecordAuto/assets/142074786/057a206c-ddea-4416-9fcc-e75c80981564)
 
 
 ## 参考项目
