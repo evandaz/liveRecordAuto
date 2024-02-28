@@ -18,7 +18,7 @@
 ## 下载
 - 点击release下载
 - [蓝奏云下载  永久地址 更新也是这个地址](https://orix.lanzoue.com/s/lzfp)
-- [123网盘下载 永久地址 更新也是这个地址]([https://cowtransfer.com/s/ff265c6a8c8a43](https://www.123pan.com/s/501cVv-DXHWA.html)
+- [123网盘下载 永久地址 更新也是这个地址]([https://www.123pan.com/s/501cVv-DXHWA.html)
 
 ## 基本界面
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/47015e08-eb11-408f-9a30-b23a3cb7382d)
