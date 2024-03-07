@@ -24,10 +24,6 @@
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/47015e08-eb11-408f-9a30-b23a3cb7382d)
 ![image](https://github.com/OriX6/liveRecordAuto/assets/142074786/4769a08b-c246-4694-96c3-be468faf9c77)
 
-## 用户交流群
-
-![微信图片_20240226170039](https://github.com/OriX6/liveRecordAuto/assets/142074786/057a206c-ddea-4416-9fcc-e75c80981564)
-
 ## 赞助作者
 [爱发电主页](https://afdian.net/a/OriNian)
 
