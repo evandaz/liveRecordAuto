@@ -28,6 +28,8 @@
 
 ![微信图片_20240226170039](https://github.com/OriX6/liveRecordAuto/assets/142074786/057a206c-ddea-4416-9fcc-e75c80981564)
 
+## 赞助作者
+[爱发电主页](https://afdian.net/a/OriNian)
 
 ## 参考项目
 * https://github.com/Evil0ctal/Douyin_TikTok_Download_API
